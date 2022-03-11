@@ -1,0 +1,5 @@
+- scrollable vertical nav bar
+- import similar font to canva wireframe
+- link actual blogs
+- fix links to all pages
+- get down arrow svg to link/move page to below the fold
