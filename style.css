@@ -13,7 +13,7 @@ body {
   display: flex;
 }
 
-h1 {
+#Blair {
   color: orange;
   font-family: Brush Script MT, Brush Script Std, cursive;
   width: max-content;
@@ -77,4 +77,9 @@ nav {
   30%  { transform: translateY(-30px); }
   50%  { transform: translateY(0); }
   100% { transform: translateY(0); }
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-family: open sans;
 }

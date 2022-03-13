@@ -2,4 +2,4 @@
 - import similar font to canva wireframe
 - link actual blogs
 - fix links to all pages
-- get down arrow svg to link/move page to below the fold
+- put projects below the fold instead of blog teasers or about me

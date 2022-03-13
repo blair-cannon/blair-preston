@@ -1,0 +1,69 @@
+.container {
+    height: 100vh;
+    width: 85%;
+    margin-left: 0;
+    background: url("img/Blog.png");
+  }
+
+body {
+  background-color: palegoldenrod;
+}
+
+.aboveWrapper {
+  display: flex;
+}
+
+#Blair {
+  color: orange;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  width: max-content;
+  height: 50px;
+  border-radius: 25px;
+  font-size: 2rem;
+  font-weight: 100;
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  text-align: center;
+  line-height: 100%;
+
+}
+
+nav {
+  /* height: 100vh; */
+  width: 15%;
+  margin-right: 0;
+  position: sticky;
+  /* border: dashed black; */
+}
+
+.nav-link {
+  color: #ff5757;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.blog-wrapper {
+    width: 70%;
+    height: max-content;
+    background-color: white;
+    position: absolute;
+    left: 188px;
+    top: 50px;
+    border-radius: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.blog-title {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: darkturquoise;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.blog {
+    font-family: open sans;
+}
